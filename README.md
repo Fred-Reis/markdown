@@ -16,9 +16,10 @@
 * Código em linha
 * Bloco de código
 * Código com Syntax Highliting
+* Emojis e dicas no GitHub
 
 
-Um curso Rápido, gratuito e de grande utilidade.
+Um curso Rápido, gratuito e de grande utilidade 👌. 
 Disponibilizado na plataforma Udemy pelo instrutor 
 [Roberto Achar
 ](https://www.udemy.com/user/roberto-achar/).
