@@ -48,7 +48,7 @@ O curso Ã© muito bom, mas uma das funcionalidades que eu mais gostei foi a criaÃ
 ### [Frederico Reis](https://github.com/Fred-Reis)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Frederico_Reis-0077B5?logo=linkedin)](https://www.linkedin.com/in/frederico-reis-dev/ "Frederico Reis")
-[![GitHub](https://img.shields.io/badge/Meu_Perfil-GitHub-000?logo=github)](https://github.com/Fred-Reis "Frederico Reis")
+[![GitHub](https://img.shields.io/badge/Fred_Reis-GitHub-000?logo=github)](https://github.com/Fred-Reis "Frederico Reis")
 [![Markdown](https://img.shields.io/badge/Curso-Aprenda_Markdown-EC5252?logo=udemy)](https://www.udemy.com/share/101vTQ/) 
 ![Markdown](https://img.shields.io/badge/>-Markdown-000000?logo=Markdown)
 
