@@ -1,7 +1,7 @@
 # Curso de Markdown ![Mark](assets/mark.png)
 
-`Markdown` é uma liguagem de marcação muito utilizada para escrever os __Redemes__ dos repositórios no _GitHub_
- > Além do Markdown os Reademes aceitam __HTML__ e ambos juntos
+`Markdown` é uma liguagem de marcação muito utilizada para escrever o __Readme__ do seu repositório no _GitHub_
+ > Além do Markdown o Readme aceitam __HTML__ e ambos juntos
 
 ### Entre os Tópicos estão:
 
