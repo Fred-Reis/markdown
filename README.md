@@ -1,4 +1,4 @@
-# Curso de Markdown <img style="width:50px; margin-left: 50px; position: absolute" src="https://simpleicons.org/icons/markdown.svg"/>
+# Curso de Markdown <img style="width:50px; height:auto; margin-left: 50px; position: absolute" src="https://simpleicons.org/icons/markdown.svg"/>
 
 `Markdown` é uma liguagem de marcação muito utilizada para escrever os __Redemes__ dos repositórios no _GitHub_
 
