@@ -25,7 +25,7 @@ Disponibilizado na plataforma Udemy pelo instrutor
 
 O curso é muito bom, mas uma das funcionalidades que eu mais gostei foi a criação de badges com links, logos, monitoramentos e outras funcionalidades. Vou deixar abaixo os links para criar seus badges e logos em svg.
 
-### [**Crie seu Badges aqui**](https://shields.io/category/social)
+### [**Crie seus Badges aqui**](https://shields.io/category/social)
 
 ### [**Icones em svg**](https://shields.io/category/social)
 
