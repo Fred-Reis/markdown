@@ -18,9 +18,8 @@
 * Código com Syntax Highliting
 
 
-Um curso Rápido e gratuito e de grande utilidade.
-disponibilizado na plataforma Udemy pelo instrutor:
-
+Um curso Rápido, gratuito e de grande utilidade.
+Disponibilizado na plataforma Udemy pelo instrutor:
 [Roberto Achar
 ](https://www.udemy.com/user/roberto-achar/)
 
