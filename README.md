@@ -19,7 +19,7 @@
 
 
 Um curso Rápido, gratuito e de grande utilidade.
-Disponibilizado na plataforma Udemy pelo instrutor:
+Disponibilizado na plataforma Udemy pelo instrutor 
 [Roberto Achar
 ](https://www.udemy.com/user/roberto-achar/)
 
