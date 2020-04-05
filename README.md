@@ -21,17 +21,17 @@
 Um curso Rápido, gratuito e de grande utilidade.
 Disponibilizado na plataforma Udemy pelo instrutor 
 [Roberto Achar
-](https://www.udemy.com/user/roberto-achar/)
+](https://www.udemy.com/user/roberto-achar/).
 
 O curso é muito bom, mas uma das funcionalidades que eu mais gostei foi a criação de badges com links, logos, monitoramentos e outras funcionalidades. Vou deixar abaixo os links para criar seus badges e logos em svg.
 
-### [**Crie seus Badges aqui**](https://shields.io/category/social)
+### [**Crie seus Badges aqui.**](https://shields.io/category/social)
 
-### [**Icones em svg**](https://shields.io/category/social)
+### [**Icones em svg.**](https://shields.io/category/social)
 
 ## Abaixo demonstração da badges com links.
 
-### Agardeço a todos.
+### Agradeço a todos.
 
 ![Imagem](https://img.shields.io/github/followers/Fred-Reis?style=social)
 
@@ -42,7 +42,7 @@ O curso é muito bom, mas uma das funcionalidades que eu mais gostei foi a cria�
 [![Imagem](https://img.shields.io/badge/Node-v_12.13.1-339933?logo=node.js)](https://nodejs.org/en/)
 
 ---
-## Autor
+## Autor:
 
 ### [Frederico Reis](https://github.com/Fred-Reis)
 
